@@ -20,6 +20,7 @@
   <Placemark>
 	<name>TMC28</name>
 	<description>9/17/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">14:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/17 14:00:00+00</SimpleData>
@@ -32,11 +33,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.47316,-34.351043</coordinates></Point>
+      <LineString><coordinates>18.47316,-34.351043</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/17/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">17:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/17 17:00:00+00</SimpleData>
@@ -49,11 +51,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.471775,-34.353675</coordinates></Point>
+      <LineString><coordinates>18.471775,-34.353675</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/17/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">20:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/17 20:00:00+00</SimpleData>
@@ -66,11 +69,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.480442,-34.354932</coordinates></Point>
+      <LineString><coordinates>18.480442,-34.354932</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/17/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">23:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/17 23:00:00+00</SimpleData>
@@ -83,11 +87,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.473847,-34.350675</coordinates></Point>
+      <LineString><coordinates>18.473847,-34.350675</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/18/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">2:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/18 02:00:00+00</SimpleData>
@@ -100,11 +105,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.474012,-34.350232</coordinates></Point>
+      <LineString><coordinates>18.474012,-34.350232</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/18/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">5:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/18 05:00:00+00</SimpleData>
@@ -117,11 +123,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.474188,-34.350277</coordinates></Point>
+      <LineString><coordinates>18.474188,-34.350277</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/18/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">8:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/18 08:00:00+00</SimpleData>
@@ -134,11 +141,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.474292,-34.350057</coordinates></Point>
+      <LineString><coordinates>18.474292,-34.350057</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>9/18/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">11:00:00</SimpleData>
 		<SimpleData name="Date">2016/09/18 11:00:00+00</SimpleData>
@@ -151,11 +159,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.474195,-34.350207</coordinates></Point>
+      <LineString><coordinates>18.474195,-34.350207</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/23/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">23:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/23 23:00:00+00</SimpleData>
@@ -168,11 +177,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.47062,-34.351577</coordinates></Point>
+      <LineString><coordinates>18.47062,-34.351577</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">2:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 02:00:00+00</SimpleData>
@@ -185,11 +195,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.465632,-34.346218</coordinates></Point>
+      <LineString><coordinates>18.465632,-34.346218</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">5:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 05:00:00+00</SimpleData>
@@ -202,11 +213,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.465178,-34.345455</coordinates></Point>
+      <LineString><coordinates>18.465178,-34.345455</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">8:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 08:00:00+00</SimpleData>
@@ -219,11 +231,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.465313,-34.345545</coordinates></Point>
+      <LineString><coordinates>18.465313,-34.345545</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">11:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 11:00:00+00</SimpleData>
@@ -236,11 +249,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.46529,-34.345638</coordinates></Point>
+      <LineString><coordinates>18.46529,-34.345638</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">14:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 14:00:00+00</SimpleData>
@@ -253,11 +267,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.465148,-34.345505</coordinates></Point>
+      <LineString><coordinates>18.465148,-34.345505</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">17:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 17:00:00+00</SimpleData>
@@ -270,11 +285,12 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.46518,-34.34545</coordinates></Point>
+      <LineString><coordinates>18.46518,-34.34545</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<name>TMC28</name>
 	<description>10/24/2016</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TMC28__8">
 		<SimpleData name="ID">20:00:00</SimpleData>
 		<SimpleData name="Date">2016/10/24 20:00:00+00</SimpleData>
@@ -287,7 +303,7 @@
 		<SimpleData name="trip_start">8</SimpleData>
 		<SimpleData name="trip_end">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>18.464983,-34.345498</coordinates></Point>
+      <LineString><coordinates>18.464983,-34.345498</coordinates></LineString>
   </Placemark>
 </Folder>
 </Document></kml>
