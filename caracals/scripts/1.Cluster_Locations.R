@@ -3,12 +3,16 @@
 # eps = reachability, in km; and minpts = reachability min. points, see Ester et al 1996
 # for more details and ?dbscan for details on the function 
 
+# Set basic stuff we need on the cluster rstudio
+setwd('~/merondun/misc_research/caracals/')
+.libPaths('~/mambaforge/envs/caracals/lib/R/library')
+
 library(tidyverse)
 library(geosphere)
 library(fpc)
 
 #read in caracal data
-files = list.files('C:/Users/herit/My Drive/Research/Caracal/Denning/2023JUNE',pattern='csv',full.names = TRUE)
+files = list.files('data',pattern='csv',full.names = TRUE)
 df = NULL
 for (file in files) {
   d =  read.csv(file,header=TRUE) %>% as_tibble
@@ -20,7 +24,7 @@ for (file in files) {
 # Transform Date_time and calculate time differences
 df = df %>%
   mutate(Date_time = paste0(Date,' ',Time),
-    Date_time = mdy_hms(Date_time)) %>% 
+         Date_time = mdy_hms(Date_time)) %>% 
   arrange(ID, Date_time) %>%
   group_by(ID) %>%
   mutate(Time_diff = c(0, diff(Date_time))/3600)
@@ -63,6 +67,5 @@ df_full <- df %>%
   mutate(dist_to_centroid = distm(cbind(Longitude, Latitude), 
                                   cbind(centroid_long, centroid_lat), 
                                   fun = distHaversine)) # distance in meters 
-write.table(df_full,file='Caracal_Denning_Data_2023JUNE25.txt',quote=F,sep='\t',row.names=F)
-
+write.table(df_full,file='data/Caracal_Denning_Data_2023JUNE25.txt',quote=F,sep='\t',row.names=F)
 

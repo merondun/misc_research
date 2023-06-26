@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TMC03__9" id="TMC03__9">
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Date_time" type="string"></SimpleField>
+	<SimpleField name="Time_diff" type="float"></SimpleField>
+	<SimpleField name="cluster" type="int"></SimpleField>
+	<SimpleField name="centroid_lat" type="float"></SimpleField>
+	<SimpleField name="centroid_long" type="float"></SimpleField>
+	<SimpleField name="dist_to_centroid" type="float"></SimpleField>
+	<SimpleField name="trip_start" type="float"></SimpleField>
+	<SimpleField name="trip_end" type="float"></SimpleField>
+	<SimpleField name="trip" type="float"></SimpleField>
+	<SimpleField name="trip_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>TMC03__9</name>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/10/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__9">
+		<SimpleData name="ID">8:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/10 08:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">170.9534850234</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">9</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358432,-34.106313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/10/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__9">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/10 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">11.5058512274196</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">9</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358348,-34.104793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/10/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__9">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/10 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">20.8364458780759</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">9</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358273,-34.104688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/10/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__9">
+		<SimpleData name="ID">17:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/10 17:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">23.2876365930134</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">9</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358243,-34.104867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

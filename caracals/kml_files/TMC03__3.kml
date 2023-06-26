@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TMC03__3" id="TMC03__3">
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Date_time" type="string"></SimpleField>
+	<SimpleField name="Time_diff" type="float"></SimpleField>
+	<SimpleField name="cluster" type="int"></SimpleField>
+	<SimpleField name="centroid_lat" type="float"></SimpleField>
+	<SimpleField name="centroid_long" type="float"></SimpleField>
+	<SimpleField name="dist_to_centroid" type="float"></SimpleField>
+	<SimpleField name="trip_start" type="float"></SimpleField>
+	<SimpleField name="trip_end" type="float"></SimpleField>
+	<SimpleField name="trip" type="float"></SimpleField>
+	<SimpleField name="trip_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>TMC03__3</name>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/4/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">20:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/04 20:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">682.93484943995</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.355952,-34.110547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/4/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">23:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/04 23:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">986.635762868275</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35522,-34.113222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">2:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 02:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">23.4942370827196</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35823,-34.10471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">5:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 05:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">30.2319737758915</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358177,-34.104658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">8:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 08:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">36.2497937458116</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358082,-34.104823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">95.0948196480652</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359237,-34.104205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">23.8298702066652</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358628,-34.104948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">17:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 17:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">14.5100953872437</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358345,-34.1047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/5/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">20:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/05 20:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">47.9029922467736</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">3</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358042,-34.10502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/26/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/26 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">272.716306518713</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">30</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359555,-34.102498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/26/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/26 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">328.405086569968</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">30</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359602,-34.10198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/26/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">17:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/26 17:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">90.9853774259071</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">30</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35916,-34.104192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/26/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">20:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/26 20:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">262.212852161005</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">31</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359817,-34.106853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/26/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">23:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/26 23:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">182.246845237314</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">31</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358778,-34.106395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">2:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 02:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">127.71882635832</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">31</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359762,-34.10436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">5:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 05:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">403.11575031635</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">31</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358877,-34.101172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">8:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 08:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">34.8083989939184</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">31</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358827,-34.104883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">357.998994028284</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.362095,-34.10362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">643.814216890014</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.36541,-34.105442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">17:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 17:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">627.863371867665</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.364925,-34.102973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">20:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 20:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">187.916148191659</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358977,-34.106413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/27/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">23:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/27 23:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">2923.93412296124</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.347327,-34.12937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">2:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 02:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">284.48967654765</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359872,-34.107055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">8:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 08:00:00+00</SimpleData>
+		<SimpleData name="Time">0.00166666666666667</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">197.641383658002</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35845,-34.106553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">37.0819598829583</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35887,-34.104823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">89.6064635276316</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">32</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359052,-34.104132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">17:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 17:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">274.07857315965</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.35943,-34.102447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">20:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 20:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">327.265505948269</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.359617,-34.101995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/28/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">23:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/28 23:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">1724.15078097272</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.353097,-34.119613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/29/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">2:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/29 02:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">1730.56328353136</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.353178,-34.119693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/29/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">5:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/29 05:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">1730.69946944325</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.352948,-34.119637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/29/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">8:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/29 08:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">44.0416227572268</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">1</SimpleData>
+		<SimpleData name="trip_start">33</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.358938,-34.104863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/29/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">11:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/29 11:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">872.103463181336</SimpleData>
+		<SimpleData name="centroid_long">1</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">34</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.36653,-34.108883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TMC03</name>
+	<description>1/29/2016</description>
+	<ExtendedData><SchemaData schemaUrl="#TMC03__3">
+		<SimpleData name="ID">14:00:00</SimpleData>
+		<SimpleData name="Date">2016/01/29 14:00:00+00</SimpleData>
+		<SimpleData name="Time">0.000833333333333333</SimpleData>
+		<SimpleData name="Time_diff">-34.1047776460177</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+		<SimpleData name="centroid_lat">1149.38968102078</SimpleData>
+		<SimpleData name="centroid_long">0</SimpleData>
+		<SimpleData name="dist_to_centroid">0</SimpleData>
+		<SimpleData name="trip_start">34</SimpleData>
+		<SimpleData name="trip_end">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.369397,-34.109755</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
