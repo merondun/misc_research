@@ -57,3 +57,7 @@ To ensure that the results are sensible, I'll plot the trip tracks for each indi
 Plotted trips can be found within `/figures/` for each caracal in a large PNG. Each trip will look like this, not explictly showing the points within the boundary before and after the trip:
 
 ![Trip Example](figures/Example_Trip.PNG) 
+
+## Contact
+
+For questions pertaining please open an issue or email: Justin Merondun heritabilities@gmail.com 
