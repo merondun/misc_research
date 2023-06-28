@@ -1,10 +1,10 @@
 # Caracal Movement Analysis
 
-This project analyzes the movement patterns of caracal denning behavior based on location data. Here's a brief overview of our analysis pipeline:
+This project analyzes the movement patterns of caracal denning behavior based on location data. Here's a brief overview of the pipeline:
 
 ## 1. Identifying Clusters with DBSCAN
 
-We use the DBSCAN clustering algorithm to identify putative den locations. The parameters for DBSCAN are:
+Use DBSCAN clustering algorithm to identify putative den locations. The parameters for DBSCAN are:
 
 - **Reachability of points (eps):** This is specified in kilometers. We've tested different values until each caracal was associated with a single cluster.
 - **Minimum Points (MinPts):** The minimum number of points required to form a dense region.
