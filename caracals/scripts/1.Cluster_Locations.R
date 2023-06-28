@@ -1,36 +1,39 @@
-# This script takes in the individual .csv data and calculates centroids for each based on 
+# This script takes in the individual .csv data and calculates centroids for each based on
 # Harversine distance between lat/long pairs. Potential sensitivity in parameters:
 # eps = reachability, in km; and minpts = reachability min. points, see Ester et al 1996
-# for more details and ?dbscan for details on the function 
+# for more details and ?dbscan for details on the function
 
 # Set basic stuff we need on the cluster rstudio
-setwd('~/merondun/misc_research/caracals/')
-.libPaths('~/mambaforge/envs/caracals/lib/R/library')
+setwd('C:/Users/herit/My Drive/Research/Caracal/Denning/2023JUNE')
+#setwd('~/merondun/misc_research/caracals/')
+#.libPaths('~/mambaforge/envs/caracals/lib/R/library')
+set.seed(111)
 
 library(tidyverse)
 library(geosphere)
 library(fpc)
+library(sf)
 
 #read in caracal data
-files = list.files('data',pattern='csv',full.names = TRUE)
+files = list.files('.',pattern='csv',full.names = TRUE)
 df = NULL
 for (file in files) {
   d =  read.csv(file,header=TRUE) %>% as_tibble
   df = rbind(df,d)
 }
 
-##### Data Prep ##### 
+##### Data Prep #####
 
 # Transform Date_time and calculate time differences
 df = df %>%
   mutate(Date_time = paste0(Date,' ',Time),
-         Date_time = mdy_hms(Date_time)) %>% 
+         Date_time = mdy_hms(Date_time)) %>%
   arrange(ID, Date_time) %>%
   group_by(ID) %>%
   mutate(Time_diff = c(0, diff(Date_time))/3600)
 
-# Weighted centroids across the whole dataset is pretty meh because 
-# this is a lot of data points and points outside of the core region could 
+# Weighted centroids across the whole dataset is pretty meh because
+# this is a lot of data points and points outside of the core region could
 # place centroid in a region a caracal never actually visits, hence I will calculate a cluster
 # We'll use the Haversine (great-circle) distance to calculate distance between lat-lon pairs (geosphere)
 
@@ -42,8 +45,8 @@ compute_dist_mat <- function(data) {
 }
 
 # Set DBSCAN parameters: eps in km, minPts as the minimum number of points in a cluster
-eps <- 0.5
-minPts <- 20
+eps <- .25
+minPts <- 50
 
 # Compute the clusters for each individual and calculate centroid of each cluster
 centroids <- df %>%
@@ -55,17 +58,24 @@ centroids <- df %>%
     data
   }) %>%
   group_by(ID, cluster) %>%
-  summarise(centroid_lat = mean(Latitude, na.rm = TRUE), 
+  summarise(centroid_lat = mean(Latitude, na.rm = TRUE),
             centroid_long = mean(Longitude, na.rm = TRUE), .groups = "drop")
+centroids
+savecent = centroids %>% filter(cluster != 0) %>%  select(-c(cluster))
+names(savecent) = c('ID','Latitude','Longitude')
+write.table(savecent,file='Putative_Dens_2023JUNE27.txt',quote=F,sep='\t',row.names=F)
 
-# Join these clusters back with the data frame so that we have a single data frame 
-# Cluster as '0' is noise from dbscan so remove these. 
+# Join these clusters back with the data frame so that we have a single data frame
+# Cluster as '0' is noise from dbscan so remove these.
 df_full <- df %>%
   full_join(centroids, by = c("ID"),relationship = 'many-to-many') %>%
-  filter(cluster != 0) %>% 
+  filter(cluster != 0) %>%
   rowwise() %>%
-  mutate(dist_to_centroid = distm(cbind(Longitude, Latitude), 
-                                  cbind(centroid_long, centroid_lat), 
-                                  fun = distHaversine)) # distance in meters 
-write.table(df_full,file='data/Caracal_Denning_Data_2023JUNE25.txt',quote=F,sep='\t',row.names=F)
+  mutate(dist_to_centroid = distm(cbind(Longitude, Latitude),
+                                  cbind(centroid_long, centroid_lat),
+                                  fun = distHaversine)) # distance in meters
+write.table(df_full,file='Caracal_Denning_Data_2023JUNE25.txt',quote=F,sep='\t',row.names=F)
 
+# And also save a KML with the points
+df_sf = st_as_sf(centroids %>% filter(cluster != 0), coords = c("centroid_long", "centroid_lat"), crs = 4326)
+df_sf %>% st_write(paste0("Centroids.kml"),append=FALSE)
