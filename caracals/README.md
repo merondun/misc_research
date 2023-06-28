@@ -33,7 +33,7 @@ Key measurements for each trip include:
 
 ## 3. Analyzing Trips
 
-We filter out any trips that last longer than 96 hours (4 days). We also calculate Spearman’s rank correlation between time and value (where value could be max distance, total distance, or duration), to determine whether these patterns change over the course of denning.
+I filter out any trips that last longer than 96 hours (4 days). We also calculate Spearman’s rank correlation between time and value (where value could be max distance, total distance, or duration), to determine whether these patterns change over the course of denning.
 
 | ID    | date start | time start | trip ID  | max dist (m) | total dist (m) | total hours |
 | ----- | ---------- | ---------- | -------- | ------------ | -------------- | ----------- |
@@ -46,13 +46,13 @@ We filter out any trips that last longer than 96 hours (4 days). We also calcula
 | TMC28 | 10/13/2016 | 17:00:00   | TMC28 34 | 1162         | 25096          | 324         |
 | TMC28 | 9/21/2016  | 2:00:00    | TMC28 12 | 1397         | 4898           | 27          |
 
-But we don't see any particularly strong or consistent signals with these metrics:
+But, no particularly strong or consistent signals with these metrics:
 
 ![Trip Summaries](figures/Caracal_Trip_Stats_250m-2023JUNE25.png)
 
 ## 4. Plotting Trips
 
-To ensure that the results are sensible, we plot the trip tracks for each individual. 
+To ensure that the results are sensible, I'll plot the trip tracks for each individual. 
 
 Plotted trips can be found within `/figures/` for each caracal in a large PNG. Each trip will look like this, not explictly showing the points within the boundary before and after the trip:
 
