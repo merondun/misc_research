@@ -14,7 +14,7 @@ library(viridis)
 library(sf)
 library(ggpubr)
 library(ggmap)
-register_google(key = "AIzaSyCSsRQi5vhLqJ_NLpIVR3HitI-suQ98mDg") # KEEP THIS SECRET
+register_google(key = "YOUR KEY") # KEEP THIS SECRET
 
 full_trip = read.table('Caracal_Denning_Data_Trips-250m_2023JUNE25.txt',header=TRUE,comment.char='',sep='\t') %>% as_tibble
 
