@@ -86,7 +86,7 @@ And spearman's rho between denning time and [distance/hours]: this will see if t
 
 **Interestingly, we see relatively strong correlations between denning duration and trip characteristics (max distance, total distance, total hours) for the 2 caracals which only den at 1 location, but these correlations show some conflict (weaker or negative) for caracals which show 2 dens (TMC13) or 3 dens (TMC28). TMC28 shows the weakest correlations with 3 dens, so there seems to be a den number effect..**
 
-![Trip Summaries](figures/Caracal_Trip_Stats_125m-2023JULY27.pdf)
+![Trip Summaries](figures/Caracal_Trip_Stats_125m-2023JULY27.png)
 
 ## 4. Plotting Trips
 
@@ -100,9 +100,39 @@ Plotted trips can be found within `/figures/` for each caracal in a large PNG. E
 
 We can easily visualize these trips in relation to the den for each caracal with GIFS. **IMPORTANT NOTE: this will only show the TRIP SEGMENTS THAT ARE > 125M FROM THE DEN in color. Therefore, it will not plot the connecting points within the den centroid before or after the trip, but each colored point are the segments that make a trip. Max distance and total distance incorporate the segments before and after into the calculations for analysis, but they are not shown here** 
 
-***TMC03: Den 1 ***
+**TMC03: Den 1 **
 
 ![TMC03](figures/TMC03_1.gif) 
+
+
+**TMC13: Den 1 **
+
+![TMC13 1](figures/TMC13_1.gif) 
+
+
+**TMC13: Den 2 **
+
+![TMC13](figures/TMC13_2.gif) 
+
+
+**TMC27: Den 1 **
+
+![TMC27](figures/TMC27_1.gif) 
+
+
+**TMC28: Den 1 **
+
+![TMC28](figures/TMC28_1.gif) 
+
+
+**TMC28: Den 2 **
+
+![TMC28](figures/TMC28_2.gif) 
+
+
+**TMC28: Den 3 **
+
+![TMC28](figures/TMC28_3.gif) 
 
 ## Contact
 
