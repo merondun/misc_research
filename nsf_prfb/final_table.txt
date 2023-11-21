@@ -1,0 +1,603 @@
+Unknown@Santos, Inês Alexandre Machado dos@
+Unknown@Snell, Katherine R. S.@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+Unknown@van Bemmelen, Rob SA@
+Unknown@Moe, Børge@
+Unknown@Thorup, Kasper@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2023-7@Vickery, Juliet A.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Mallord, John W.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds The Lodge Sandy UK
+2023-7@Adams, William M.@Department of Geography University of Cambridge  Cambridge CB2 3EN UK
+2023-7@Beresford, Alison E.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Both, Christiaan@Netherlands Institute of Ecology (NIOO‐KNAW)  PO Box 40 Heteren 6666ZG The Netherlands
+2023-7@Cresswell, Will@Centre of Biological Diversity University of St Andrews  Fife KY16 9TH UK
+2023-7@Diop, Ngoné@Department of Animal Biology Cheikh Anta Diop University  Av Cheikh Anta Diop Dakar 5005 Senegal
+2023-7@Ewing, Steven R.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Gregory, Richard D.@RSPB Centre for Conservation Science, The Lodge, Sandy SG19 2DL, UK
+2023-7@Morrison, Catriona A.@School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK
+2023-7@Sanderson, Fiona J.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Van Wijk, Rien E.@Natural History Museum, Centre for Macroecology, Evolution and Climate University of Copenhagen  Universitetsparken 15 DK‐2100 Copenhagen Denmark
+2023-7@Hewson, Chris M.@British Trust for Ornithology  The Nunnery, Thetford Norfolk IP24 2PU UK
+2023-6-7@Bloche, Daniel A. F.@
+2023-6-7@Olsen, Kent@
+2023-6-7@Ekberg, Per@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, Univ. of Copenhagen Copenhagen Denmark
+2023-6-7@Ellegaard Larsen, Peter@Assistant Professor, Dept. of Building Technology and Structural Engineering, Aalborg Univ., Sohngaardsholmsvej 57, 9000 Aalborg, Denmark.
+2023-6-7@Strange, Knud-Erik@
+2023-6-7@Tøttrup, Anders P.@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Building 3, 2ndfloor, Universitetsparken 15, 2100 København, Denmark.
+2023@Xia, Huan@
+2023@Nilsson, Cecilia@
+2023@Jia, Chenxi@College of Mechanical and Control Engineering, Guilin University of Technology, Guilin, People’s Republic of China
+2023@Lei, Fumin@
+2023-1@Fandos, Guillermo@Institute for Biochemistry and Biology University of Potsdam  Potsdam Germany
+2023-1@Talluto, Matthew@Department of Ecology University of Innsbruck  Innsbruck Austria
+2023-1@Fiedler, Wolfgang@Department of Migration, Max Planck Institute of Animal Behavior, Radolfzell, Germany.
+2023-1@Robinson, Robert A.@British Trust for Ornithology, The Nunnery, Thetford IP24 2PU, UK
+2023-1@Zurell, Damaris@Institute for Biochemistry and Biology University of Potsdam  Potsdam Germany
+2022-12-21@Young, Rebecca C.@
+2022-12-21@Krause, Jesse S.@
+2022-12-21@Collinson, J. Martin@
+2022-12-21@Wingfield, John C.@a     Shrewsbury
+2022-12-1@Macías-Torres, Pablo@
+2022-12-1@Alerstam, Thomas@Dept of Biology, Lund Univ., Ecology Building Lund Sweden
+2022-12-1@Andersson, Arne@Department of Biology, Lund University, Lund, Sweden.
+2022-12-1@Bäckman, Johan@Department of Biology, Lund University, Lund, Sweden.
+2022-12-1@Sjöberg, Sissel@Department of Biology, Lund University, Lund, Sweden.
+2022-4@Flack, Andrea@
+2022-10@Aikens, Ellen O.@Wyoming Cooperative Fish and Wildlife Research Unit, Department of Zoology and Physiology; University of Wyoming; Laramie WY 82071 USA
+2022-4@Kölzsch, Andrea@Department of Migration, Max Planck Institute of Animal Behavior, Radolfzell, Germany.
+2022-10@Nourani, Elham@
+2022-10@Snell, Katherine R.S.@Laboratory of Pathology, National Cancer Institute, Bethesda, Maryland 20014
+2022-4@Linek, Nils@
+2022-10@Bauer, Hans-Günther@
+2022-4@Partecke, Jesko@
+2022-4@Wikelski, Martin@Department of Migration, Max Planck Institute of Animal Behavior, Radolfzell, Germany.
+2022-4@Williams, Hannah J.@
+2022-7-11@Caliendo, V.@
+2022-7-11@Lewis, N. S.@
+2022-7-11@Pohlmann, A.@
+2022-7-11@Baillie, S. R.@
+2022-7-11@Banyard, A. C.@
+2022-7-11@Beer, M.@
+2022-7-11@Brown, I. H.@
+2022-7-11@Fouchier, R. A. M.@
+2022-7-11@Hansen, R. D. E.@
+2022-7-11@Lameris, T. K.@
+2022-7-11@Lang, A. S.@
+2022-7-11@Laurendeau, S.@
+2022-7-11@Lung, O.@
+2022-7-11@Robertson, G.@
+2022-7-11@van der Jeugd, H.@
+2022-7-11@Alkie, T. N.@
+2022-7-11@Thorup, K.@
+2022-7-11@van Toor, M. L.@
+2022-7-11@Waldenström, J.@
+2022-7-11@Yason, C.@
+2022-7-11@Kuiken, T.@
+2022-7-11@Berhane, Y.@
+2022-4@Jetz, Walter@Department of Zoology, University of Oxford, South Parks Road, Oxford OX1 3PS, United Kingdom; and Zoological Museum, University of Copenhagen, Universitetsparken 15, DK-2100 Copenhagen, Denmark
+2022-4@Tertitski, Grigori@Institute of Geography, Russian Academy of Sciences, Moscow, Russia.
+2022-4@Kays, Roland@College of Natural Resources, North Carolina State University, Raleigh, NC, USA.
+2022-4@Mueller, Uschi@
+2022-4@Åkesson, Susanne@
+2022-4@Anisimov, Yury@SPbSU
+2022-4@Antonov, Aleksey@Gubkin Russian State University of Oil and Gas (National Research University)
+2022-4@Arnold, Walter@
+2022-4@Bairlein, Franz@
+2022-4@Baltà, Oriol@Catalan Ornithological Institute, Nat-Museu de Ciències Naturals de Barcelona, Pl. Leonardo da Vinci, 4-5 08019 Barcelona, Spain
+2022-4@Baum, Diane@
+2022-4@Beck, Mario@
+2022-4@Belonovich, Olga@
+2022-4@Belyaev, Mikhail@
+2022-4@Berger, Matthias@
+2022-4@Berthold, Peter@
+2022-4@Bittner, Steffen@
+2022-4@Blake, Stephen@
+2022-4@Block, Barbara@
+2022-4@Bloche, Daniel@
+2022-4@Boehning-Gaese, Katrin@
+2022-4@Bohrer, Gil@Department of Civil, Environmental and Geodetic Engineering, The Ohio State University, Columbus, OH, USA.
+2022-4@Bojarinova, Julia@
+2022-4@Bommas, Gerhard@
+2022-4@Bourski, Oleg@
+2022-4@Bragin, Albert@
+2022-4@Bragin, Alexandr@
+2022-4@Bristol, Rachel@
+2022-4@Brlík, Vojtěch@
+2022-4@Bulyuk, Victor@
+2022-4@Cagnacci, Francesca@
+2022-4@Carlson, Ben@Goody Clancy, Boston, Mass.
+2022-4@Chapple, Taylor K.@Wildlife Fish and Conservation Biology University of California  Davis, One Shields Avenue Davis CA 95616 U.S.A.
+2022-4@Chefira, Kalkidan F.@
+2022-4@Cheng, Yachang@Department of Migration Max Planck Institute of Animal Behavior Radolfzell Germany
+2022-4@Chernetsov, Nikita@
+2022-4@Cierlik, Grzegorz@
+2022-4@Christiansen, Simon S.@
+2022-4@Clarabuch, Oriol@
+2022-4@Cochran, William@
+2022-4@Cornelius, Jamie Margaret@<i>Animal Behavior Graduate Group and Department of Neurobiology, Physiology and Behavior</i> University of California Davis Davis CA 95616 USA
+2022-4@Couzin, Iain@
+2022-4@Crofoot, Margret C.@1Department of Biological Anthropology, Harvard University, 11 Divinity Avenue, Cambridge, MA 02138, USA
+2022-4@Cruz, Sebastian@
+2022-4@Davydov, Alexander@
+2022-4@Davidson, Sarah@
+2022-4@Dech, Stefan@
+2022-4@Dechmann, Dina@
+2022-4@Demidova, Ekaterina@Perm National Research Polytechnic University
+2022-4@Dettmann, Jan@ESA, Noordwijk, Netherlands
+2022-4@Dittmar, Sven@
+2022-4@Dorofeev, Dmitry@
+2022-4@Drenckhahn, Detlev@
+2022-4@Dubyanskiy, Vladimir@
+2022-4@Egorov, Nikolay@
+2022-4@Ehnbom, Sophie@
+2022-4@Ellis-Soto, Diego@
+2022-4@Ewald, Ralf@
+2022-4@Feare, Chris@
+2022-4@Fefelov, Igor@
+2022-4@Fehérvári, Péter@
+2022-4@Froböse, Magnus@
+2022-4@Fufachev, Ivan@
+2022-4@Futoran, Pavel@
+2022-4@Gabyshev, Vyachaslav@
+2022-4@Gagliardo, Anna@University of Pisa annag@discau.unipi.it
+2022-4@Garthe, Stefan@Research and Technology Centre (FTZ), Kiel University, Büsum, Germany.
+2022-4@Gashkov, Sergey@None
+2022-4@Gibson, Luke@
+2022-4@Goymann, Wolfgang@
+2022-4@Gruppe, Gerd@
+2022-4@Guglielmo, Chris@
+2022-4@Hartl, Phil@
+2022-4@Hedenström, Anders@
+2022-4@Hegemann, Arne@
+2022-4@Heine, Georg@
+2022-4@Ruiz, Mäggi Hieber@
+2022-4@Hofer, Heribert@
+2022-4@Huber, Felix@ICFO—The Institute of Photonic Sciences , 08860 Castelldefels (Barcelona), Spain
+2022-4@Hurme, Edward@
+2022-4@Iannarilli, Fabiola@F. Iannarilli (https://orcid.org/0000-0002-7018-3557) ✉ (ianna014@umn.edu), T. W. Arnold (https://orcid.org/0000-0002-7920-772X) and J. R. Fieberg (https://orcid.org/0000-0002-3180-7021), Dept of Fisheries, Wildlife and Conservation Biology, Univ. of
+2022-4@Illa, Marc@Barcelona U.
+2022-4@Isaev, Arkadiy@
+2022-4@Jakobsen, Bent@1Immunocore, United Kingdom
+2022-4@Jenni, Lukas@
+2022-4@Jenni-Eiermann, Susi@
+2022-4@Jesmer, Brett@Department of Zoology and Physiology University of Wyoming 1000 E. University Ave. Laramie WY 82071 USA
+2022-4@Jiguet, Frédéric@Centre d'Ecologie et des Sciences de la Conservation (CESCO) UMR 7204, Museum National d'Histoire Naturelle, Paris, France
+2022-4@Karimova, Tatiana@
+2022-4@Kasdin, N. Jeremy@Princeton University, Princeton, New Jersey 08544
+2022-4@Kazansky, Fedor@
+2022-4@Kirillin, Ruslan@
+2022-4@Klinner, Thomas@
+2022-4@Knopp, Andreas@Institute of Hydrochemistry and Chemical Balneology, Technical University Munich, Marchioninistr. 17, D-81377 München, Germany
+2022-4@Kondratyev, Alexander@
+2022-4@Krondorf, Marco@
+2022-4@Ktitorov, Pavel@
+2022-4@Kulikova, Olga@
+2022-4@Kumar, R. Suresh@Central Sericultural Research and Training Institute, Srirampura, Mysore 570 008, India
+2022-4@Künzer, Claudia@
+2022-4@Larionov, Anatoliy@
+2022-4@Larose, Christine@Direction des services professionnels et des affaires universitaires, Centre Jeunesse de Montréal-Institut universitaire
+2022-4@Liechti, Felix@
+2022-4@Lohr, Ashley@North Carolina Museum of Natural Sciences, Raleigh, NC 27601.
+2022-4@Lushchekina, Anna@
+2022-4@Mansfield, Kate@
+2022-4@Matantseva, Maria@
+2022-4@Markovets, Mikhail@
+2022-4@Marra, Peter@
+2022-4@Masello, Juan F.@
+2022-4@Melzheimer, Jörg@
+2022-4@Menz, Myles H.M.@
+2022-4@Menzie, Stephen@
+2022-4@Meshcheryagina, Swetlana@
+2022-4@Miquelle, Dale@
+2022-4@Morozov, Vladimir@
+2022-4@Mukhin, Andrey@Biological Station Rybachy, Rybachy 238535, Kaliningrad Region, Russia
+2022-4@Müller, Inge@
+2022-4@Mueller, Thomas@
+2022-4@Navedo, Juan G.@
+2022-4@Nathan, Ran@Movement Ecology Laboratory, Department of Evolution, Systematics and Ecology, Alexander Silberman Institute of Life Sciences, The Hebrew University of Jerusalem, Givat Ram, 91904 Jerusalem, Israel, and Smithsonian Tropical Research Institute, Apartado 0843-03092, Balboa, Ancón, Panama.
+2022-4@Nelson, Luke@
+2022-4@Németh, Zoltán@Wigner Research Centre for Physics , Konkoly-Thege Miklós út 29-33., Budapest H-1121, Hungary
+2022-4@Newman, Scott@Biostatistics & Bioinformatics Shared Resource, Winship Cancer Institute of Emory University, Atlanta, GA 30322, USA
+2022-4@Norris, Ryan@
+2022-4@Nsengimana, Olivier@
+2022-4@Okhlopkov, Innokentiy@
+2022-4@Oleś, Wioleta@
+2022-4@Oliver, Ruth@
+2022-4@O’Mara, Teague@
+2022-4@Palatitz, Peter@MME/BirdLife Hungary, Red-footed Falcon Conservation Working Group, 1121 Budapest, Költő utca 21., Hungary
+2022-4@Pavlick, Ryan@Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania 16802, USA
+2022-4@Pedenko, Anastasia@
+2022-4@Perry, Alys@
+2022-4@Pham, Julie@
+2022-4@Piechowski, Daniel@
+2022-4@Pierce, Allison@University of California Santa Barbara
+2022-4@Piersma, Theunis@
+2022-4@Pitz, Wolfgang@
+2022-4@Plettemeier, Dirk@
+2022-4@Pokrovskaya, Irina@
+2022-4@Pokrovskaya, Liya@
+2022-4@Pokrovsky, Ivan@Department of Migration, Max Planck Institute of Animal Behavior, Radolfzell, Germany.
+2022-4@Pot, Morrison@
+2022-4@Procházka, Petr@
+2022-4@Quillfeldt, Petra@Justus-Liebig University, Gießen, Germany.
+2022-4@Rakhimberdiev, Eldar@NIOZ Royal Netherlands Institute for Sea Research Department of Coastal Systems and Utrecht University P.O.Box 59 1790 AB Den Burg, Texel The Netherlands
+2022-4@Ramenofsky, Marilyn@
+2022-4@Ranipeta, Ajay@
+2022-4@Rapczyński, Jan@
+2022-4@Remisiewicz, Magdalena@Dept. of Vertebrate Ecology and Zoology, University of Gdańsk, al. Legionów 9, PL-80-441 Gdańsk, Poland
+2022-4@Rozhnov, Viatcheslav@
+2022-4@Rienks, Froukje@
+2022-4@Rozhnov, Vyacheslav@
+2022-4@Rutz, Christian@
+2022-4@Sakhvon, Vital@
+2022-4@Sapir, Nir@
+2022-4@Safi, Kamran@
+2022-4@Schäuffelhut, Friedrich@
+2022-4@Schimel, David@
+2022-4@Schmidt, Andreas@
+2022-4@Shamoun-Baranes, Judy@
+2022-4@Sharikov, Alexander@
+2022-4@Shearer, Laura@
+2022-4@Shemyakin, Evgeny@
+2022-4@Sherub, Sherub@Ugyen Wangchuck Institute for Conservation and Environment Research Department of Forests and Park Services Ministry of Agriculture and Forests Lamai Gonpa  Bumthang Bhutan
+2022-4@Shipley, Ryan@Department of Migration and Ecoimmunology Max Planck Institute for Animal Behavior Radolfzell am Bodensee Germany
+2022-4@Sica, Yanina@
+2022-4@Smith, Thomas B.@
+2022-4@Simonov, Sergey@
+2022-4@Snell, Katherine@Laboratory of Pathology, National Cancer Institute, Bethesda, Maryland 20014
+2022-4@Sokolov, Aleksandr@Arctic Research Station of Institute of Plant and Animal Ecology UB, RAS, Labytnangi, Yamal-Nenets Autonomous District, Russia.
+2022-4@Sokolov, Vasiliy@Institute of Plant and Animal Ecology, Ural Division Russian Academy of Sciences, Ekaterinburg, Russia.
+2022-4@Solomina, Olga@
+2022-4@Soloviev, Mikhail@
+2022-4@Spina, Fernando@
+2022-4@Spoelstra, Kamiel@
+2022-4@Storhas, Martin@
+2022-4@Sviridova, Tatiana@National Medical Research Center for Children's Health of the Ministry of Health of the Russian Federation
+2022-4@Swenson, George@University of Illinois , Urbana-Champaign, US
+2022-4@Taylor, Phil@School of Education, University of Nottingham, Nottingham, England
+2022-4@Tsvey, Arseny@Biological Station Rybachy Zoological Institute of RAS Rybachy Kaliningrad Reg. Russia
+2022-4@Tucker, Marlee@Department of Environmental Science, Radboud University, Nijmegen, Netherlands
+2022-4@Tuppen, Sophie@
+2022-4@Turner, Woody@
+2022-4@Twizeyimana, Innocent@
+2022-4@van der Jeugd, Henk@
+2022-4@van Schalkwyk, Louis@
+2022-4@van Toor, Mariëlle@
+2022-4@Viljoen, Pauli@Scientific Services, SANParks, Skukuza, 1350 South Africa
+2022-4@Visser, Marcel E.@Department of Animal Ecology, Netherlands Institute of Ecology, The Netherlands
+2022-4@Volkmer, Tamara@
+2022-4@Volkov, Andrei@
+2022-4@Volkov, Sergey@
+2022-4@Volkov, Oleg@
+2022-4@von Rönn, Jan A.C.@
+2022-4@Vorneweg, Bernd@
+2022-4@Wachter, Bettina@Department of Evolutionary Ecology Leibniz Institute for Zoo and Wildlife Research  Berlin Germany
+2022-4@Waldenström, Jonas@
+2022-4@Weber, Natalie@
+2022-4@Wegmann, Martin@
+2022-4@Wehr, Aloysius@
+2022-4@Weinzierl, Rolf@Department of Migration and Immuno-Ecology, Max Planck Institute for Ornithology, 78315 Radolfzell, Germany
+2022-4@Weppler, Johannes@
+2022-4@Wilcove, David@
+2022-4@Wild, Timm@
+2022-4@Wilshire, John@
+2022-4@Wingfield, John@a     Shrewsbury
+2022-4@Wunder, Michael@
+2022-4@Yachmennikova, Anna@
+2022-4@Yanco, Scott@
+2022-4@Yohannes, Elisabeth@
+2022-4@Zeller, Amelie@
+2022-4@Ziegler, Christian@
+2022-4@Zięcik, Anna@
+2022-4@Zook, Cheryl@
+2022-3@Butler, Simon J.@School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK
+2022-3@Clark, Jacquie A.@British Trust for Ornithology, The Nunnery, Thetford IP24 2PU, UK
+2022-3@Arizaga, Juan@Department of Ornithology, Aranzadi Sciences Society, Zorroagagaina 11, E-20014 Donostia-San Sebastián, Spain.
+2022-3@Cepák, Jaroslav@Bird Ringing Centre, National Museum, Hornoměcholupská 34, CZ-10200 Praha 10, Czech Republic
+2022-3@Nebot, Arantza Leal@SEO/BirdLife, Ciencia Ciudadana, C/Melquiades Biencinto, 34 - 28053 Madrid, Spain
+2022-3@Piha, Markus@Finnish Museum of Natural History – LUOMUS, PO Box 17, FI-00014, University of Helsinki, Finland
+2022-3@Wenninger, Thomas@Swedish Museum of Natural History, Bird Ringing Centre, Box 50007, S-104 05 Stockholm, Sweden
+2022-3@Gill, Jennifer A.@School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK
+2021-12-28@Pedersen, Lykke@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, Univ. of Copenhagen Copenhagen Denmark
+2021-12-28@da Fonseca, Rute R.@Center for Macroecology, Evolution and Climate, GLOBE Institute, University of Copenhagen, Copenhagen 2100, Denmark;
+2021-12-28@Naimi, Babak@Rui Nabeiro Biodiversity Chair, Mediterranean Institute for Agriculture, Environment and Development, University of Évora, Évora 7000, Portugal;
+2021-12-28@Nogués-Bravo, David@Center for Macroecology, Evolution and Climate, GLOBE Institute, University of Copenhagen, Copenhagen 2100, Denmark;
+2021-12-28@Krapp, Mario@Department of Zoology, University of Cambridge, Cambridge CB2 3EJ, United Kingdom;
+2021-12-28@Manica, Andrea@Department of Zoology, University of Cambridge, Cambridge CB2 3EJ, United Kingdom;
+2021-5-7@Willemoes, Mikkel@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Building 3, 2ndfloor, Universitetsparken 15, 2100 København, Denmark.
+2021-12-28@Feng, Shaohong@BGI-Shenzhen, Shenzhen 518083, China;
+2021-12-28@Chen, Guangji@BGI-Shenzhen, Shenzhen 518083, China;
+2021-12-28@Rey-Iglesia, Alba@Section for Evolutionary Genomics, GLOBE Institute, University of Copenhagen, Øster Farimagsgade 5, Copenhagen 1353, Denmark;
+2021-12-28@Campos, Paula F.@Interdisciplinary Centre of Marine and Environmental Research (CIIMAR), University of Porto, Matosinhos 4450-208, Portugal;
+2021-12-28@Beyer, Robert@Department of Zoology, University of Cambridge, Cambridge CB2 3EJ, United Kingdom;
+2021-12-28@Araújo, Miguel B.@Rui Nabeiro Biodiversity Chair, Mediterranean Institute for Agriculture, Environment and Development, University of Évora, Évora 7000, Portugal;
+2021-12-28@Hansen, Anders J.@Section for Geogenetics, GLOBE Institute, University of Copenhagen, Copenhagen 1352, Denmark;
+2021-12-28@Zhang, Guojie@BGI-Shenzhen, Shenzhen 518083, China;
+2021-12-28@Rahbek, Carsten@Center for Macroecology, Evolution and Climate, GLOBE Institute, University of Copenhagen, Copenhagen 2100, Denmark;
+2021-7@Mostafa, Dina Abdelhafez Ali@
+2021-7@Salewski, Volker@Michael‐Otto‐Institut im NABU Bergenhusen Germany
+2021-7@Ortvad, Troels Eske@
+2021-7@Dabelsteen, Torben@
+2021-6-2@Liang, Yuan@
+2021-6-2@Krog, Jesper Schak@National Veterinary Institute Technical University of Denmark  Frederiksberg C Denmark
+2021-6-2@Ryt-Hansen, Pia@University of Copenhagen
+2021-6-2@Pedersen, Anders Gorm@
+2021-6-2@Kvisgaard, Lise Kirstine@
+2021-6-2@Holm, Elisabeth@
+2021-6-2@Nielsen, Pernille Dahl@
+2021-6-2@Hammer, Anne Sofie@
+2021-6-2@Madsen, Jesper Johannes@National Environmental Research Institute Department of Coastal Zone Ecology, Kalø DK‐8410 Rønde Denmark
+2021-6-2@Larsen, Lars Erik@
+2021-6-2@Hjulsager, Charlotte Kristiane@
+2021-5-7@Malmiga, Gintaras@Nature Research Centre, Vilnius, Lithuania.
+2021-5-7@Nord, Andreas@Department of Biology, Lund University, Lund, Sweden.
+2021-5-7@Tarka, Maja@Department of Biology, Lund University, Lund, Sweden.
+2021-5-7@Hansson, Bengt@Department of Biology, Lund University, Lund, Sweden.
+2021-5-7@Hasselquist, Dennis@Department of Biology, Lund University, Lund, Sweden.
+2021-3-10@Aunins, Ainars@Department of Zoology and Animal Ecology, Faculty of Biology, University of Latvia, Jelgavas iela 1, Riga, LV-1004, Latvia
+2021-3-10@Chodkiewicz, Tomasz@Museum and Institute of Zoology, Polish Academy of Sciences, Wilcza 64, 00-679 Warszawa, Poland
+2021-3-10@Escandell, Virginia@Estudio y Seguimiento de Aves SEO/BirdLife, Melquíades Biencinto, Madrid, Spain
+2021-3-10@Foppen, Ruud P. B.@Sovon Dutch Centre for Field Ornithology, PO Box 6521, 6503 GA Nijmegen, The Netherlands
+2021-3-10@Husby, Magne@Nord University, Røstad, 7600 Levanger, Norway
+2021-3-10@Kålås, John Atle@Norwegian Institute for Nature Research, PO Box 5685 Torgarden, NO-7485 Trondheim, Norway
+2021-3-10@Lehikoinen, Aleksi@Finnish Museum of Natural History, FI-00014 University of Helsinki, PO Box 17, Finland
+2021-3-10@Lindström, Åke@Department of Biology, Lund University, Lund, Sweden
+2021-3-10@Moshøj, Charlotte M.@Dansk Ornitologisk Forening, BirdLife Denmark, Vesterbrogade 138-140, DK-1620 København V, Denmark
+2021-3-10@Nagy, Károly@MME BirdLife Hungary, Monitoring Centre, H-4401 Nyiregyháza 1. PO Box 286, Hungary
+2021-3-10@Reif, Jiří@Institute for Environmental Studies, Faculty of Science, Charles University, Prague, Benatska 2, 128 01 Praha 2, Czech Republic
+2021-3-10@Sattler, Thomas@Swiss Ornithological Institute, Seerose 1, CH-6204 Sempach, Switzerland
+2021-3-10@Škorpilová, Jana@Pan-European Common Bird Monitoring Scheme, Czech Society for Ornithology, Na Bělidle, CZ-150 00 Prague 5, Czech Republic
+2021-3-10@Szép, Tibor@University of Nyíregyháza &amp; MME/BirdLife Hungary, Nyíregyháza, Hungary
+2021-3-10@Teufelbauer, Norbert@BirdLife Österreich, Museumsplatz 1/10/7-8, A-1070 Wien, Austria
+2021-3-10@van Turnhout, Chris@Sovon Dutch Centre for Field Ornithology, PO Box 6521, 6503 GA Nijmegen, The Netherlands
+2020-12@Heim, Wieland@
+2020-12@Heim, Ramona J.@
+2020-12@Beermann, Ilka@Institute of Landscape Ecology, University of Münster, Münster, Germany
+2020-12@Burkovskiy, Oleg A.@
+2020-12@Gerasimov, Yury@Kamchatka Branch of Pacific Institute of Geography of the Far eastern Branch of the Russian Academy of Sciences
+2020-12@Ozaki, Kiyoaki@Yamashina Institute for Ornithology, Division of Avian Conservation
+2020-12@Panov, Ilya@
+2020-12@Sander, Martha Maria@
+2020-12@Smirenski, Sergei M.@
+2020-12@Thomas, Alexander@
+2020-12@Tiunov, Ivan M.@
+2020-12@Hölzel, Norbert@
+2020-12@Kamp, Johannes@
+2020-11-6@Davidson, Sarah C.@Department of Civil, Environmental and Geodetic Engineering, The Ohio State University, Columbus, OH, USA.
+2020-11-6@Gurarie, Eliezer@Department of Biology, University of Maryland, College Park, MD, USA.
+2020-11-6@LaPoint, Scott@Department of Migration, Max Planck Institute of Animal Behavior, Radolfzell, Germany.
+2020-11-6@Mahoney, Peter J.@School of Environmental and Forest Sciences, University of Washington, Seattle, WA, USA.
+2020-11-6@Boelman, Natalie T.@Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY, USA.
+2020-11-6@Eitel, Jan U. H.@Department of Natural Resources and Society, University of Idaho, Moscow, ID, USA.
+2020-11-6@Prugh, Laura R.@School of Environmental and Forest Sciences, University of Washington, Seattle, WA, USA.
+2020-11-6@Vierling, Lee A.@Department of Natural Resources and Society, University of Idaho, Moscow, ID, USA.
+2020-11-6@Jennewein, Jyoti@Department of Natural Resources and Society, University of Idaho, Moscow, ID, USA.
+2020-11-6@Grier, Emma@Department of Biology, University of Maryland, College Park, MD, USA.
+2020-11-6@Couriot, Ophélie@Department of Biology, University of Maryland, College Park, MD, USA.
+2020-11-6@Kelly, Allicia P.@Department of Environment and Natural Resources, Government of the Northwest Territories, Fort Smith, NT, Canada.
+2020-11-6@Meddens, Arjan J. H.@School of the Environment, Washington State University, Pullman, WA, USA.
+2020-11-6@Oliver, Ruth Y.@Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY, USA.
+2020-11-6@Aarvak, Tomas@BirdLife Norway, Trondheim, Norway.
+2020-11-6@Ackerman, Joshua T.@U.S. Geological Survey, Western Ecological Research Center, Dixon Field Station, Dixon, CA, USA.
+2020-11-6@Alves, José A.@Department of Biology &amp; CESAM, University of Aveiro, Aveiro, Portugal.
+2020-11-6@Bayne, Erin@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Bedrosian, Bryan@Teton Raptor Center, Jackson Hole, WY, USA.
+2020-11-6@Belant, Jerrold L.@Global Wildlife Conservation Center, College of Environmental Science and Forestry, State University of New York, Syracuse, NY, USA.
+2020-11-6@Berdahl, Andrew M.@School of Aquatic &amp; Fishery Sciences, University of Washington, Seattle, WA, USA.
+2020-11-6@Berlin, Alicia M.@U.S. Geological Survey, Patuxent Wildlife Research Center, Laurel, MD, USA.
+2020-11-6@Berteaux, Dominique@Centre d’études nordiques, Université du Québec à Rimouski, Rimouski, QC, Canada.
+2020-11-6@Bêty, Joël@Centre d’études nordiques, Université du Québec à Rimouski, Rimouski, QC, Canada.
+2020-11-6@Boiko, Dmitrijs@Latvian National Museum of Natural History, Riga, Latvia.
+2020-11-6@Booms, Travis L.@Alaska Department of Fish and Game, Fairbanks, AK, USA.
+2020-11-6@Borg, Bridget L.@National Park Service, Denali National Park and Preserve, Denali Park, AK, USA.
+2020-11-6@Boutin, Stan@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Boyd, W. Sean@Science &amp; Technology Branch, Environment &amp; Climate Change Canada, Delta, BC, Canada.
+2020-11-6@Brides, Kane@Wildfowl &amp; Wetlands Trust, Slimbridge, UK.
+2020-11-6@Brown, Stephen@Manomet, Inc., Saxtons River, VT, USA.
+2020-11-6@Bulyuk, Victor N.@Biological Station Rybachy, Zoological Institute of Russian Academy of Sciences, St. Petersburg, Russia.
+2020-11-6@Burnham, Kurt K.@High Arctic Institute, Orion, IL, USA.
+2020-11-6@Cabot, David@School of Biological, Earth and Environmental Sciences, University College Cork, Cork, Ireland.
+2020-11-6@Casazza, Michael@U.S. Geological Survey, Western Ecological Research Center, Dixon Field Station, Dixon, CA, USA.
+2020-11-6@Christie, Katherine@Alaska Department of Fish and Game, Anchorage, AK, USA.
+2020-11-6@Craig, Erica H.@Aquila Environmental, Fairbanks, AK, USA.
+2020-11-6@Davis, Shanti E.@High Arctic Gull Research Group, Bamfield, BC, Canada.
+2020-11-6@Davison, Tracy@Department of Environment and Natural Resources, Government of the Northwest Territories, Inuvik, NT, Canada.
+2020-11-6@Demma, Dominic@Alaska Department of Fish and Game, Palmer, AK, USA.
+2020-11-6@DeSorbo, Christopher R.@Biodiversity Research Institute, Portland, ME, USA.
+2020-11-6@Dixon, Andrew@Reneco International Wildlife Consultants, Abu Dhabi, United Arab Emirates.
+2020-11-6@Domenech, Robert@Raptor View Research Institute, Missoula, MT, USA.
+2020-11-6@Eichhorn, Götz@Vogeltrekstation—Dutch Centre for Avian Migration and Demography, Wageningen, Netherlands.
+2020-11-6@Elliott, Kyle@Department of Natural Resource Sciences, McGill University, Ste Anne-de-Bellevue, QC, Canada.
+2020-11-6@Evenson, Joseph R.@Washington Department of Fish and Wildlife, Olympia, WA, USA.
+2020-11-6@Exo, Klaus-Michael@Institute for Avian Research “Vogelwarte Helgoland,” Wilhelmshaven, Germany.
+2020-11-6@Ferguson, Steven H.@Fisheries and Oceans Canada, Winnipeg, MB, Canada.
+2020-11-6@Fisk, Aaron@Great Lakes Institute for Environmental Research, School of the Environment, University of Windsor, Windsor, ON, Canada.
+2020-11-6@Fort, Jérôme@Littoral Environnement et Sociétés (LIENSs), CNRS, La Rochelle University, La Rochelle, France.
+2020-11-6@Franke, Alastair@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Fuller, Mark R.@Boise State University, Raptor Research Center, Boise, ID, USA.
+2020-11-6@Gauthier, Gilles@Département de Biologie &amp; Centre d’Études Nordiques, Université Laval, Quebec City, QC, Canada.
+2020-11-6@Gilchrist, Grant@Environment &amp; Climate Change Canada, National Wildlife Research Centre, Carleton University, Ottawa, ON, Canada.
+2020-11-6@Glazov, Petr@Institute of Geography, Russian Academy of Sciences, Moscow, Russia.
+2020-11-6@Gray, Carrie E.@School of Biology and Ecology, University of Maine, Orono, ME, USA.
+2020-11-6@Grémillet, David@Centre d’Etudes Biologiques de Chizé, CNRS, La Rochelle University, Villiers en Bois, France.
+2020-11-6@Griffin, Larry@Wildfowl &amp; Wetlands Trust, Slimbridge, UK.
+2020-11-6@Hallworth, Michael T.@Migratory Bird Center, Smithsonian Conservation Biology Institute, National Zoological Park, Washington DC, USA.
+2020-11-6@Harrison, Autumn-Lynn@Migratory Bird Center, Smithsonian Conservation Biology Institute, National Zoological Park, Washington DC, USA.
+2020-11-6@Hennin, Holly L.@Science &amp; Technology Branch, Environment &amp; Climate Change Canada, Delta, BC, Canada.
+2020-11-6@Hipfner, J. Mark@Environment &amp; Climate Change Canada, Pacific Wildlife Research Centre, Delta, BC, Canada.
+2020-11-6@Hodson, James@Department of Environment and Natural Resources, Government of the Northwest Territories, Yellowknife, NT, Canada.
+2020-11-6@Johnson, James A.@U.S. Fish &amp; Wildlife Service, Migratory Bird Management, Anchorage, AK, USA.
+2020-11-6@Joly, Kyle@National Park Service, Gates of the Arctic National Park &amp; Preserve, Fairbanks, AK, USA.
+2020-11-6@Jones, Kimberly@Alaska Department of Fish and Game, Palmer, AK, USA.
+2020-11-6@Katzner, Todd E.@U.S. Geological Survey, Forest and Rangeland Ecosystem Science Center, Boise, ID, USA.
+2020-11-6@Kidd, Jeff W.@Kidd Biological, Inc., Anacortes, WA, USA.
+2020-11-6@Knight, Elly C.@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Kochert, Michael N.@U.S. Geological Survey, Forest and Rangeland Ecosystem Science Center, Boise, ID, USA.
+2020-11-6@Kruckenberg, Helmut@Institute for Wetlands and Waterbird Research e.V., Verden (Aller), Germany.
+2020-11-6@Lagassé, Benjamin J.@Department of Integrative Biology, University of Colorado, Denver, CO, USA.
+2020-11-6@Lai, Sandra@Centre d’études nordiques, Université du Québec à Rimouski, Rimouski, QC, Canada.
+2020-11-6@Lamarre, Jean-François@Polar Knowledge Canada, Cambridge Bay, NU, Canada.
+2020-11-6@Lanctot, Richard B.@U.S. Fish &amp; Wildlife Service, Migratory Bird Management, Anchorage, AK, USA.
+2020-11-6@Larter, Nicholas C.@Department of Environment and Natural Resources, Government of the Northwest Territories, Fort Simpson, NT, Canada.
+2020-11-6@Latham, A. David M.@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Latty, Christopher J.@U.S. Fish &amp; Wildlife Service, Arctic National Wildlife Refuge, Fairbanks, AK, USA.
+2020-11-6@Lawler, James P.@National Park Service, Alaska Inventory and Monitoring Program, Anchorage, AK, USA.
+2020-11-6@Léandri-Breton, Don-Jean@Centre d’études nordiques, Université du Québec à Rimouski, Rimouski, QC, Canada.
+2020-11-6@Lee, Hansoo@Korea Institute of Environmental Ecology, Yuseonggu, Daejeon, Republic of Korea.
+2020-11-6@Lewis, Stephen B.@U.S. Fish &amp; Wildlife Service, Juneau, AK, USA.
+2020-11-6@Love, Oliver P.@Department of Integrative Biology, University of Windsor, Windsor, ON, Canada.
+2020-11-6@Madsen, Jesper@Department of Bioscience—Kalø, Aarhus University, Rønde, Denmark.
+2020-11-6@Maftei, Mark@High Arctic Gull Research Group, Bamfield, BC, Canada.
+2020-11-6@Mallory, Mark L.@Biology Department, Acadia University, Wolfville, NS, Canada.
+2020-11-6@Mangipane, Buck@National Park Service, Lake Clark National Park and Preserve, Anchorage, AK, USA.
+2020-11-6@Markovets, Mikhail Y.@Biological Station Rybachy, Zoological Institute of Russian Academy of Sciences, St. Petersburg, Russia.
+2020-11-6@Marra, Peter P.@Department of Biology and the McCourt School of Public Policy, Georgetown University, Washington, DC, USA.
+2020-11-6@McGuire, Rebecca@Wildlife Conservation Society, Arctic Beringia Program, Fairbanks, AK, USA.
+2020-11-6@McIntyre, Carol L.@National Park Service, Denali National Park and Preserve, Denali Park, AK, USA.
+2020-11-6@McKinnon, Emily A.@University of Manitoba, Winnipeg, MB, Canada.
+2020-11-6@Miller, Tricia A.@Conservation Science Global, Inc., West Cape May, NJ, USA.
+2020-11-6@Moonen, Sander@Institute for Avian Research “Vogelwarte Helgoland,” Wilhelmshaven, Germany.
+2020-11-6@Mu, Tong@Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA.
+2020-11-6@Müskens, Gerhard J. D. M.@Wageningen Environmental Research, Wageningen University &amp; Research, Wageningen, Netherlands.
+2020-11-6@Ng, Janet@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Nicholson, Kerry L.@Alaska Department of Fish and Game, Fairbanks, AK, USA.
+2020-11-6@Øien, Ingar Jostein@BirdLife Norway, Trondheim, Norway.
+2020-11-6@Overton, Cory@U.S. Geological Survey, Western Ecological Research Center, Dixon Field Station, Dixon, CA, USA.
+2020-11-6@Owen, Patricia A.@National Park Service, Denali National Park and Preserve, Denali Park, AK, USA.
+2020-11-6@Patterson, Allison@Department of Natural Resource Sciences, McGill University, Ste Anne-de-Bellevue, QC, Canada.
+2020-11-6@Petersen, Aevar@Independent researcher, Reykjavik, Iceland.
+2020-11-6@Powell, Luke L.@Migratory Bird Center, Smithsonian Conservation Biology Institute, National Zoological Park, Washington DC, USA.
+2020-11-6@Prieto, Rui@Marine and Environmental Sciences Centre, Institute of Marine Research and Okeanos R&amp;D Centre, University of the Azores, Horta, Portugal.
+2020-11-6@Rausch, Jennie@Environment &amp; Climate Change Canada, Yellowknife, NT, Canada.
+2020-11-6@Russell, Kelsey@Environment Yukon, Whitehorse, YT, Canada.
+2020-11-6@Saalfeld, Sarah T.@U.S. Fish &amp; Wildlife Service, Migratory Bird Management, Anchorage, AK, USA.
+2020-11-6@Schekkerman, Hans@SOVON, Nijmegen, Netherlands.
+2020-11-6@Schmutz, Joel A.@U.S. Geological Survey Alaska Science Center, Anchorage, AK, USA.
+2020-11-6@Schwemmer, Philipp@Research and Technology Centre (FTZ), Kiel University, Büsum, Germany.
+2020-11-6@Seip, Dale R.@British Columbia Ministry of Environment, Prince George, BC, Canada.
+2020-11-6@Shreading, Adam@Raptor View Research Institute, Missoula, MT, USA.
+2020-11-6@Silva, Mónica A.@Marine and Environmental Sciences Centre, Institute of Marine Research and Okeanos R&amp;D Centre, University of the Azores, Horta, Portugal.
+2020-11-6@Smith, Brian W.@U.S. Fish &amp; Wildlife Service, Migratory Bird Management, Denver, CO, USA.
+2020-11-6@Smith, Fletcher@Center for Conservation Biology, College of William &amp; Mary, Williamsburg, VA, USA.
+2020-11-6@Smith, Jeff P.@HawkWatch International, Salt Lake City, UT, USA.
+2020-11-6@Solovyeva, Diana V@Laboratory of Ornithology, Institute of Biological Problems of the North FEB RAS, Magadan, Russia.
+2020-11-6@Sorum, Mathew S.@National Park Service, Yukon-Charley Rivers National Preserve, Central Alaska Inventory and Monitoring Network, Fairbanks, AK, USA.
+2020-11-6@Therrien, J. F.@Département de Biologie &amp; Centre d’Études Nordiques, Université Laval, Quebec City, QC, Canada.
+2020-11-6@Tibbitts, T. Lee@U.S. Geological Survey Alaska Science Center, Anchorage, AK, USA.
+2020-11-6@Tulp, Ingrid@Wageningen Marine Research, IJmuiden, Netherlands.
+2020-11-6@Uher-Koch, Brian D.@U.S. Geological Survey Alaska Science Center, Anchorage, AK, USA.
+2020-11-6@van Bemmelen, Rob S. A.@Wageningen Marine Research, IJmuiden, Netherlands.
+2020-11-6@Van Wilgenburg, Steven@Canadian Wildlife Service, Environment &amp; Climate Change Canada, Saskatoon, SK, Canada.
+2020-11-6@Von Duyke, Andrew L.@North Slope Borough, Department of Wildlife Management, Utqiaġvik, AK, USA.
+2020-11-6@Watson, Jesse L.@Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada.
+2020-11-6@Watts, Bryan D.@Center for Conservation Biology, College of William &amp; Mary, Williamsburg, VA, USA.
+2020-11-6@Williams, Judy A.@Department of Environment and Natural Resources, Government of the Northwest Territories, Yellowknife, NT, Canada.
+2020-11-6@Wilson, Matthew T.@Washington Department of Fish and Wildlife, Olympia, WA, USA.
+2020-11-6@Wright, James R.@School of Environment and Natural Resources, The Ohio State University, Columbus, OH, USA.
+2020-11-6@Yates, Michael A.@Earthspan Foundation, Minden, NV, USA.
+2020-11-6@Yurkowski, David J.@Fisheries and Oceans Canada, Winnipeg, MB, Canada.
+2020-11-6@Žydelis, Ramūnas@Ornitela UAB, Vilnius, Lithuania.
+2020-11-6@Hebblewhite, Mark@Wildlife Biology Program, Department of Ecosystem and Conservation Sciences, W.A. Franke College of Forestry and Conservation, University of Montana, Missoula, MT, USA.
+2020-10@Onrubia, Alejandro@Migres Foundation, International Bird Migration Center (CIMA), N-340, Km 85, Post-office box 152, 11380 Tarifa, Cádiz, Spain.
+2020-10@Vardanis, Yannis@Dept of Biology, Lund Univ., Ecology Building Lund Sweden
+2020-10@Barboutis, Christos@Antikythira Bird Observatory, Hellenic Ornithological Society/Birdlife Greece Athens Greece
+2020-10@Waasdorp, Stef@Bargerveen Foundation Nijmegen the Netherlands
+2020-10@van Helvert, Monique@Bargerveen Foundation Nijmegen the Netherlands
+2020-10@Geertsma, Marten@Bargerveen Foundation Nijmegen the Netherlands
+2020-10@Strandberg, Roine@Dept of Biology, Lund Univ., Ecology Building Lund Sweden
+2020-10@Matsyna, Ekaterina@Ornithological Laboratory of Ecological Center ‘DRONT' Nizhny Novgorod Russia
+2020-10@Matsyna, Alexander@Ornithological Laboratory of Ecological Center ‘DRONT' Nizhny Novgorod Russia
+2020-10@Klaassen, Raymond H. G.@Conservation Ecology Group, Groningen Inst. for Evolutionary Life Sciences, Univ. of Groningen Groningen the Netherlands
+2020-5-7@Vega, Marta Lomas@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Building 3, 2ndfloor, Universitetsparken 15, 2100 København, Denmark.
+2020-5-7@Snell, Katherine Rachel Scotchburn@
+2020-5-7@Lubkovskaia, Regina@
+2020-5-7@Sokolov, Leonid V.@
+2020-5@Sun, Jiachen@Behavioural Ecology & Ecophysiology Group, Department of Biology, University of Antwerp, Universiteitsplein 1, BE-2610 Wilrijk, Belgium
+2020-5@Covaci, Adrian@
+2020-5@Bustnes, Jan Ove@Unit for Arctic Ecology, Norwegian Institute for Nature Research (NINA), FRAM - High North Research Centre for Climate and the Environment, Hjalmar Johansens gate 14, P. O. Box 6606, NO-9296 Tromsø, Norway
+2020-5@Jaspers, Veerle L.B.@
+2020-5@Helander, Björn@Environmental Research & Monitoring, Swedish Museum of Natural History, Frescativägen 40, P. O. Box 50007, SE-104 05 Stockholm, Sweden
+2020-5@Bårdsen, Bård-Jørgen@
+2020-5@Boertmann, David@
+2020-5@Dietz, Rune@
+2020-5@Labansen, Aili Lage@Greenland Institute of Natural Resources, Kivioq 2, P. O. Box 570, GL-3900 Nuuk, Greenland
+2020-5@Lepoint, Gilles@MARE Centre, Oceanology, University of Liège, Allée de la Chimie 3, BE-4000 Liège, Belgium
+2020-5@Schulz, Ralf@iES Landau, Institute for Environmental Sciences, University of Koblenz-Landau, Fortstrasse 7, DE-76829 Landau, Germany
+2020-5@Malarvannan, Govindan@
+2020-5@Sonne, Christian@
+2020-5@Zubrod, Jochen P.@iES Landau, Institute for Environmental Sciences, University of Koblenz-Landau, Fortstrasse 7, DE-76829 Landau, Germany
+2020-5@Eens, Marcel@Behavioural Ecology & Ecophysiology Group, Department of Biology, University of Antwerp, Universiteitsplein 1, BE-2610 Wilrijk, Belgium
+2020-5@Eulaers, Igor@
+2020-1-14@Jensen, Rie B. E.@
+2020-1-14@Ortvad, Troels E.@
+2019-12-27@Burgess, Malcolm@
+2019-12-27@Conway, Greg@
+2019-12-27@Arroyo Matos, José Luis@Universidad de Sevilla / Universidad Pontificia Comillas
+2019-12-27@Barber, Lee@
+2019-12-27@Black, John@
+2019-12-27@Burton, Niall@
+2019-12-27@Castelló, Joan@RSPB Centre for Conservation Science, The Lodge, Sandy, UK
+2019-12-27@Clewley, Gary@British Trust for Ornithology, Thetford, Norfolk, UK
+2019-12-27@Copete, José Luis@
+2019-12-27@Czajkowski, Michel Alexandre@a  OMPO , 5 avenue des Chasseurs,  F-75017 ,  Paris ,  France
+2019-12-27@Dale, Svein@
+2019-12-27@Davis, Tony@
+2019-12-27@Dombrovski, Valery@
+2019-12-27@Drew, Mike@Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560012, India
+2019-12-27@Elts, Jaanus@
+2019-12-27@Gilson, Vicky@
+2019-12-27@Grzegorczyk, Emilienne@
+2019-12-27@Henderson, Ian@
+2019-12-27@Holdsworth, Michael@
+2019-12-27@Husbands, Rob@
+2019-12-27@Lorrilliere, Romain@
+2019-12-27@Marja, Riho@
+2019-12-27@Minkevicius, Simonas@
+2019-12-27@Moussy, Caroline@
+2019-12-27@Olsson, Peter@
+2019-12-27@Pérez, Marc@
+2019-12-27@Piacentini, Joseph@
+2019-12-27@Pons, Jean-Marc@
+2019-12-27@Raković, Marko@
+2019-12-27@Robins, Harriet@
+2019-12-27@Seimola, Tuomas@
+2019-12-27@Selstam, Gunnar@
+2019-12-27@Skierczyński, Michał@
+2019-12-27@Sondell, Jan@
+2019-12-27@Thibault, Jean-Claude@
+2019-12-27@Walker, Justin@
+2019-12-27@Hewson, Chris@
+2019-10@Søndergaard, Jens@
+2019-11-5@Bossi, Rossana@
+2019-11-5@Herzke, Dorte@NILU, Norwegian Institute for Air Research, FRAM - High North Research Centre for Climate and the Environment, Hjalmar Johansens gate 14, NO-9296 Tromsø, Norway
+2019-11-5@Jaspers, Veerle L. B.@Environmental Toxicology Group, Department of Biology, Norwegian University of Science and Technology, Høgskoleringen 5, NO-7491 Trondheim, Norway
+2019-9@Garbus, Svend-Erik@
+2019-9@Christensen, Jens Peter@
+2019-9@Buchmann, Kurt@
+2019-9@Jessen, Thomas Binger@
+2019-9@Lyngs, Peter@
+2019-9@Jacobsen, Mona Lykke@
+2019-9@Garbus, Grete@
+2019-9@Lund, Emil@
+2019-9@Garbus, Pelle Gorm@Center for Materials Crystallography
+2019-8@Jakobsen, Nina Munkholt@
+2019-6@Lerche‐Jørgensen, Mathilde@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark University of Copenhagen Copenhagen Denmark
+2019-6@Orsman, Christopher J.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds The Lodge Sandy UK
+2019-6@Roberts, Japheth T.@Ghana Wildlife Society Efua Sutherland Children's Park Accra Ghana
+2019-6@Skeen, Roger Q.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds The Lodge Sandy UK
+2019-6@Eskildsen, Daniel P.@Birdlife Denmark Copenhagen V Denmark
+2019-5-4@Sørensen, Iben Hove@DOF BirdLife Denmark, Copenhagen, Denmark
+2019-5-4@Lerche-Jørgensen, Mathilde@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2019-5-4@Fjeldså, Jon@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2019-5-4@Tøttrup, Anders P@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2019-5-4@Jacobsen, Erik Mandrup@DOF BirdLife Denmark, Copenhagen, Denmark
+2019-5-4@Reeve, Andrew H@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2019-5-4@Oteng-Appau, Robert@Ghana Wildlife Society, Accra, Ghana
+2019-5-4@Asamoah, Augustus@Ghana Wildlife Society, Accra, Ghana
+2019-5-4@Lehmberg, Thomas@DOF BirdLife Denmark, Copenhagen, Denmark
+2019-4@Klitgaard, Kirstine@
+2019-4@Højgaard, Jesper@
+2019-4@Isbrand, Anastasia@
+2019-4@Madsen, Jesper J.@National Environmental Research Institute Department of Coastal Zone Ecology, Kalø DK‐8410 Rønde Denmark
+2019-4@Bødker, Rene@
+2019-2-18@Cuenca, David@Grupo Ornitológico del Estrecho (GOES), Post-office box 351, 11300 La Línea de la Concepción, Cádiz, Spain.
+2019-2-18@Alonso, Daniel@Department of Ornithology, Aranzadi Sciences Society, Zorroagagaina 11, E-20014 Donostia-San Sebastián, Spain.
+2019-2-18@Torralvo, Carlos@Migres Foundation, International Bird Migration Center (CIMA), N-340, Km 85, Post-office box 152, 11380 Tarifa, Cádiz, Spain.

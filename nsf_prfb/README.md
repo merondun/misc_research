@@ -10,18 +10,30 @@ The NSF (and many other funding agencies) ask for all associations for the last 
 
 This is particularly useful for the NSF PRFB COA (Collaborators and Other Affiliations) document, as of the time of this script. I found this works on at least half of all given DOIs, depending on how updated crossref is, but hopefully it helps with at least some large papers and establish frequent collaborators in an automated process
 
-python Extract_Coauthor_Details.py https://doi.org/10.1371/journal.pgen.1010901
+Works as of Nov 2023 using the conda enviroment specified in the `.yml` file. 
 
-Output is '@' separated so that you can `cat` all https files and then copy that directly into excel, and then use '@' as your column separator so that you always have 3 columns regardless of the tab/space separator in affiliations:  
+python Coauthor_Search.py DOIS.list 
+
+It's not perfect, it will:
+
+- Search for the DOI using crossref api.
+- Extract coauthors and affiliations, publication date
+- If there are duplicated coauthors across DOIs, keep the one with the affilation
+- If the affiliation is missing, search crossref for a fuzzy search removing accents, middle name etc. 
+- Sometimes this fuzzy search messes up publication date. 
+
+In any case, I gave the script 33 DOIs, and it output publication dates, authors, and affiliations for 312 coauthors. It was unable to retrieve affiliations for another 200ish coauthors, so not perfect, but probably good enough. If you don't care about affiliations you can just write unknown affiliation and at least you have author names.
 
 ```
-cat https:__doi.org_10.1111_acv.12732_info.txt | tr '@' '\t'
-Publication Date: 2022-4
-Authors and Affiliations:
-2022-4  Leighton, Gabriella R. M.       Department of Biological Sciences Institute for Communities and Wildlife in Africa University of Cape Town  Cape Town South Africa
-2022-4  Bishop, Jacqueline M.   Department of Biological Sciences Institute for Communities and Wildlife in Africa University of Cape Town  Cape Town South Africa
-2022-4  Merondun, Justin        Division of Evolutionary Biology Faculty of Biology LMU Munich  Planegg‐Martinsried Germany
-2022-4  Winterton, Deborah J.   Cape Research Centre South African National Parks  Cape Town South Africa
-2022-4  O’Riain, M. Justin      Department of Biological Sciences Institute for Communities and Wildlife in Africa University of Cape Town  Cape Town South Africa
-2022-4  Serieys, Laurel E. K.   Department of Biological Sciences Institute for Communities and Wildlife in Africa University of Cape Town  Cape Town South Africa
+head final_table.txt
+Unknown@Santos, Inês Alexandre Machado dos@
+Unknown@Snell, Katherine R. S.@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+Unknown@van Bemmelen, Rob SA@
+Unknown@Moe, Børge@
+Unknown@Thorup, Kasper@Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark
+2023-7@Vickery, Juliet A.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Mallord, John W.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds The Lodge Sandy UK
+2023-7@Adams, William M.@Department of Geography University of Cambridge  Cambridge CB2 3EN UK
+2023-7@Beresford, Alison E.@RSPB Centre for Conservation Science, Royal Society for the Protection of Birds  The Lodge, Sandy Bedfordshire SG19 2DL UK
+2023-7@Both, Christiaan@Netherlands Institute of Ecology (NIOO‐KNAW)  PO Box 40 Heteren 6666ZG The Netherlands
 ```

@@ -160,4 +160,10 @@ dependencies:
   - zeromq=4.3.5=h59595ed_0
   - zipp=3.17.0=pyhd8ed1ab_0
   - zlib=1.2.13=hd590300_5
+  - pip:
+      - fuzzywuzzy==0.18.0
+      - levenshtein==0.23.0
+      - python-levenshtein==0.23.0
+      - rapidfuzz==3.5.2
+      - unidecode==1.3.7
 prefix: /dss/dsshome1/lxc07/di39dux/mambaforge/envs/pyweb
